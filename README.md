@@ -20,4 +20,16 @@ git add .
 ```
 git push remoteName branchName
 ```
+## 比较两个仓库的差异
+```
+git diff a b
+```
+## 合并两个分支
+```
+git merge a b
+```
+## 远程合并到本地
+```
+git rebase a b
+```
 
