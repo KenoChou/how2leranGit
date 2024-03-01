@@ -16,4 +16,8 @@ git branch
 ```
 git add .
 ```
+## 将文件提交到指定远程参考
+```
+git pull remoteName branchName
+```
 
