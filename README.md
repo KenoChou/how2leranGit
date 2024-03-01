@@ -12,4 +12,8 @@ git clone 仓库地址
 ``` git
 git branch
 ```
+## 将文件提交到本地仓库
+```
+git add .
+```
 
